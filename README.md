@@ -41,4 +41,10 @@ Converter Interface
 
 6. Convert to INR
 
+![image](https://user-images.githubusercontent.com/73025102/202920277-3010db91-42fc-4227-a3e1-92738b1367d0.png)
+
+
 7. When type other than a number
+
+![image](https://user-images.githubusercontent.com/73025102/202920292-490529a9-457f-497f-95b4-21400acf6187.png)
+
