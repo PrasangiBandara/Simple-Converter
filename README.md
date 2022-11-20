@@ -31,8 +31,12 @@ Converter Interface
 
 4. Convert to Celsius(*C)
 
+![image](https://user-images.githubusercontent.com/73025102/202920237-62c260ce-941c-4b86-9be8-d363d7d79103.png)
+
 
 5. Convert to Fahrenheit(*F)
+
+![image](https://user-images.githubusercontent.com/73025102/202920248-73034dd3-4c3c-4aa5-afff-3da1ada6fb0a.png)
 
 
 6. Convert to INR
